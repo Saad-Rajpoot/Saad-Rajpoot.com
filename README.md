@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate Flutter developer with a keen interest in creating efficient and user-friendly mobile applications.
 
-<table border="none">
+<table>
   <tr>
     <td>
       <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/72617801?v=5&h=240&w=240&fit=cover&mask=circle&maxage=7d" alt="Profile" style="border-radius: 50%;"/>
