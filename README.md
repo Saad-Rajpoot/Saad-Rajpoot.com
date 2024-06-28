@@ -5,7 +5,7 @@ Welcome to my Portfolio! I'm a passionate Flutter developer with a keen interest
 <table style="border: 1px solid white; border-collapse: collapse;">
   <tr>
     <td style="border: 1px solid white; padding: 10px;">
-      <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/72617801?v=5&h=240&w=240&fit=cover&mask=circle&maxage=7d" alt="Profile" style="border-radius: 50%;"/>
+      <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/72617801?v=5&h=220&w=220&fit=cover&mask=circle&maxage=7d" alt="Profile" style="border-radius: 50%;"/>
     </td>
     <td style="border: 1px solid white; padding: 10px;">
       <div>
