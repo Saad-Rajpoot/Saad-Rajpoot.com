@@ -23,27 +23,6 @@ Welcome to my GitHub profile! I'm a passionate Flutter developer with a keen int
   </tr>
 </table>
 
-<table style="width: 100%; border-collapse: collapse; border: 1px solid white;">
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;">
-      <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/72617801?v=5&h=240&w=240&fit=cover&mask=circle&maxage=7d" alt="Profile" style="border-radius: 50%; max-width: 100%; height: auto;">
-    </td>
-    <td style="border: 1px solid white; padding: 10px; text-align: left;">
-      <div style="padding: 20px;">
-        <b>🚀 About Me</b>
-        <ul style="list-style-type: none; padding-left: 0;">
-          <li>🔭 I’m currently working on Flutter projects</li>
-          <li>🌱 I’m constantly learning and improving my skills in Flutter and mobile app development</li>
-          <li>👯 I’m looking to collaborate on innovative and challenging Flutter projects</li>
-          <li>🤔 I’m looking for help with advanced Flutter techniques and best practices</li>
-          <li>💬 Ask me about anything related to Flutter development</li>
-          <li>⚡ Fun fact: I enjoy exploring new technologies and keeping up with industry trends</li>
-        </ul>
-      </div>
-    </td>
-  </tr>
-</table>
-
 ## 🛠️ Skills
 
 ### Programming Languages
