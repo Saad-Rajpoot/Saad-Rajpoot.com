@@ -10,14 +10,11 @@ Welcome to my Portfolio! I'm a passionate Flutter developer with a keen interest
     <td style="border: 1px solid white;">
       <div>
         <h2 style="border: 1px solid white;">🚀 About Me</h2>
-        <ul style="list-style-type: none; padding: 0; text-align: left;">
-          <li>🔭 I’m currently working on Flutter projects</li>
-          <li>🌱 I’m constantly learning and improving my skills in Flutter and mobile app development</li>
-          <li>👯 I’m looking to collaborate on innovative and challenging Flutter projects</li>
-          <li>🤔 I’m looking for help with advanced Flutter techniques and best practices</li>
-          <li>💬 Ask me about anything related to Flutter development</li>
-          <li>⚡ Fun fact: I enjoy exploring new technologies and keeping up with industry trends</li>
-        </ul>
+        <p style="list-style-type: none; padding: 0; text-align: left;">
+          As a Senior Flutter Developer, I have a strong foundation in mobile app development, with a particular focus on the Flutter framework. My expertise encompasses the entire development lifecycle, from conceptualizing and designing to coding and deploying applications.
+
+I thrive on challenges and am always eager to take on new projects that push the boundaries of my skills. My work is driven by a deep understanding of client needs, a commitment to quality, and a keen eye for detail. I excel in collaborative environments and believe that the best results come from teamwork and open communication.
+        </p>
       </div>
     </td>
   </tr>
