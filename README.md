@@ -10,7 +10,7 @@ Welcome to my Portfolio! I'm a passionate Flutter developer with a keen interest
     <td style="border: 1px solid white;">
       <div>
         <h2 style="border: 1px solid white;">🚀 About Me</h2>
-        <ul style="list-style-type: none; padding: 0;">
+        <ul style="list-style-type: none; padding: 0; text-align: left;">
           <li>🔭 I’m currently working on Flutter projects</li>
           <li>🌱 I’m constantly learning and improving my skills in Flutter and mobile app development</li>
           <li>👯 I’m looking to collaborate on innovative and challenging Flutter projects</li>
