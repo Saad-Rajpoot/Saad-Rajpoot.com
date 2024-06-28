@@ -19,6 +19,24 @@ Welcome to my Portfolio! I'm a passionate Flutter developer with a keen interest
   </tr>
 </table>
 
+<div style="max-width: 100%; overflow-x: auto;">
+  <table style="border-collapse: collapse; width: 100%; max-width: 600px; margin: auto; border: 1px solid white;">
+    <tr>
+      <td style="border: 1px solid white; text-align: center;">
+        <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/72617801?v=5&h=230&w=230&fit=cover&mask=circle&maxage=7d" alt="Profile" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+      </td>
+      <td style="border: 1px solid white; vertical-align: top;">
+        <div style="padding: 10px;">
+          <h2 style="margin-top: 0;">🚀 About Me</h2>
+          <p style="text-align: justify;">As a Senior Flutter Developer, I have a strong foundation in mobile app development, with a particular focus on the Flutter framework. My expertise encompasses the entire development lifecycle, from conceptualizing and designing to coding and deploying applications.</p>
+          <p style="text-align: justify;">I thrive on challenges and am always eager to take on new projects that push the boundaries of my skills. My work is driven by a deep understanding of client needs, a commitment to quality, and a keen eye for detail. I excel in collaborative environments and believe that the best results come from teamwork and open communication.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 ## 🛠️ Skills
 
 ### Programming Languages
