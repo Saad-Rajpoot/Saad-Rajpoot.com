@@ -73,12 +73,12 @@ A project aimed at providing stylish and customizable UI components for Flutter 
 
 ## 📫 Connect with Me
 
-- [Twitter]({{ site.social_links.twitter }})
-- [Facebook]({{ site.social_links.facebook }})
-- [Instagram]({{ site.social_links.instagram }})
-- [LinkedIn]({{ site.social_links.linkedin }})
-- [GitHub]({{ site.social_links.github }})
-- [YouTube]({{ site.social_links.youtube }})
+- [Twitter](https://www.twitter.com/in/saad-rajpoot-b3ba85225/)
+- [Facebook](https://www.facebook.com/in/saad-rajpoot-b3ba85225/)
+- [Instagram](https://www.instagram.com/in/saad-rajpoot-b3ba85225/)
+- [LinkedIn](https://www.linkedin.com/in/saad-rajpoot-b3ba85225/)
+- [GitHub](https://www.github.com/in/Saad-Rajpoot/)
+- [Behance](https://www.behance.net/saadrajpoot5/)
 
 Feel free to connect with me on social media!
 
