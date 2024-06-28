@@ -66,22 +66,22 @@ Welcome to my Portfolio! I'm a passionate Flutter developer with a keen interest
 
 ### Featured Repositories
 
-#### [Fractal-Tree](https://github.com/Saad-Rajpoot/Fractal-Tree)
+#### [Fractal Tree](https://github.com/Saad-Rajpoot/Fractal-Tree)
 Explore an interactive and visually stunning Fractal Tree app built with Flutter, featuring real-time parameter adjustments and customizable designs. Dive into the code, experiment with modifications, and contribute to the project!
 
-#### [Penrose-Tiling](https://github.com/Saad-Rajpoot/Penrose-Tiling)
+#### [Penrose Tiling](https://github.com/Saad-Rajpoot/Penrose-Tiling)
 An interactive Penrose Tiling app built with Flutter, featuring real-time parameter adjustments and customizable designs. This project demonstrates how to create non-periodic tiling patterns using Flutter's drawing capabilities.
 
 #### [AppDeviceInfo](https://github.com/Saad-Rajpoot/AppDeviceInfo)
 A Flutter package that provides comprehensive device and application information. This package simplifies the process of retrieving key details about the app and the device it’s running on, useful for analytics, debugging, and enhancing user experience.
 
-#### [Snap-Style](https://github.com/Saad-Rajpoot/Snap-Style)
+#### [Snap Style](https://github.com/Saad-Rajpoot/Snap-Style)
 A project aimed at providing stylish and customizable UI components for Flutter apps. This repository includes a variety of pre-designed components that can be easily integrated into any Flutter project to enhance its visual appeal.
 
 ### Other Repositories
-- [ToDo App](https://github.com/YOUR_GITHUB_USERNAME/todo-app): A simple to-do list application built with Flutter.
-- [Weather App](https://github.com/YOUR_GITHUB_USERNAME/weather-app): A weather forecasting app using Flutter and OpenWeather API.
-- [Chat Application](https://github.com/YOUR_GITHUB_USERNAME/chat-app): A real-time chat application built with Flutter and Firebase.
+- [Sierpinski Triangle](https://github.com/Saad-Rajpoot/Sierpinski-Triangle): Create and explore interactive Sierpinski Triangle fractals with a customizable Flutter app.
+- [Rose Curves](https://github.com/Saad-Rajpoot/Rose-Curves): Explore an interactive Rose Curves app built with Flutter, featuring real-time parameter adjustments and customizable designs.
+- [Hypotrochoid and Epitrochoid Patterns](https://github.com/Saad-Rajpoot/chat-app): Explore an interactive Hypotrochoid and Epitrochoid Patterns app built with Flutter.
 
 ### Connect with me
 
@@ -98,17 +98,14 @@ Check out my [portfolio](https://saad-rajpoot.github.io/) to see some of the pro
 
 ## 📄 Certifications
 
-- **Certification 1**: Details about the certification.
-- **Certification 2**: Details about the certification.
+- **Introduction to Git and Github**: 🎓 Completed Coursera's Introduction to GitHub course | Mastered repository management, branching, and collaboration workflows | Ready to contribute effectively to software development projects.
 
 ## 🌟 Testimonials
 
-"Saad is a highly skilled Flutter developer with a strong eye for detail and a passion for creating top-notch mobile applications." - Example Testimonial
+"Great Flutter Developer to work with. Knowledgeable and professional.highly recommended" **SA Lodhi**(https://www.linkedin.com/in/salodhi1/)
+"I am delighted to recommend Saad as a highly skilled Flutter developer. He consistently impresses us with his proficiency and dedication to creating exceptional mobile applications.
+He possesses a deep understanding of Flutter framework and its ecosystem. He demonstrated expertise in developing clean, efficient, and maintainable code that adhered to best practices. His ability to translate complex design requirements into smooth, responsive user interfaces is particularly impressive." **Zainab Abbasi**
+"It has been an absolute pleasure to work alongside Saad in Geeks Select. When he joined the office, he seemed to be a very straight forward guy and we had an interaction after a few days. I was also in doubt if he was professional or just an average flutter developer. Little did I know, he would be declared as the "Best Employee of the Year" in his first year. He has also made our OZPOS project a running success and we are now working in different cities of Australia through his great flutter development skills.He is a genuine and well reputed person and one of the best people I had in my professional life. I wanted to write more about him but I guess I need help in typing more. 😄😄😄" **Hammad Abbasi**
 
-## 📝 Latest Blog Posts
-
-- [Blog Post 1](YOUR_BLOG_LINK_1): A brief description of the blog post.
-- [Blog Post 2](YOUR_BLOG_LINK_2): A brief description of the blog post.
-- [Blog Post 3](YOUR_BLOG_LINK_3): A brief description of the blog post.
 
 Feel free to reach out if you'd like to collaborate or just have a chat about Flutter development!
