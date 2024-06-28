@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm a passionate Flutter developer with a keen int
   </tr>
 </table>
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
+<table style="border: none; border-collapse: collapse; width: 100%;">
+  <tr style="border: none;">
     <td style="border: none; padding-right: 20px; vertical-align: top;">
       <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/72617801?v=5&h=240&w=240&fit=cover&mask=circle&maxage=7d" alt="Profile" style="border-radius: 50%;"/>
     </td>
