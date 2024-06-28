@@ -3,7 +3,7 @@
 Welcome to my Portfolio! I'm a passionate Flutter developer with a keen interest in creating efficient and user-friendly mobile applications.
 
 <table style="border: 1px solid white; border-collapse: collapse; width: 100%;">
-  <tr style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+  <tr style="display: flex; flex-direction: column;  text-align: center;">
     <td style="border: 1px solid white; width: 50%;">
       <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/72617801?v=5&h=230&w=230&fit=cover&mask=circle&maxage=7d" alt="Profile" style="border-radius: 50%; width: 200px; height: 200px;"/>
     </td>
