@@ -1,3 +1,10 @@
 title: Saad Rajpoot
 logo: /assets/profile.jpeg
-theme: jekyll-theme-minima
+theme: jekyll-theme-midnight
+social:
+  twitter: https://twitter.com/yourusername
+  facebook: https://facebook.com/yourusername
+  instagram: https://instagram.com/yourusername
+  linkedin: https://linkedin.com/in/yourusername
+  github: https://github.com/yourusername
+  youtube: https://youtube.com/c/yourusername
