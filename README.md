@@ -1,8 +1,18 @@
 # 👋 Hi, I'm Saad Rajpoot
 
-Welcome to my GitHub profile! I'm a passionate Flutter developer with a keen interest in creating efficient and user-friendly mobile applications. 
+Welcome to my GitHub profile! I'm a passionate Flutter developer with a keen interest in creating efficient and user-friendly mobile applications.
+
 <p align="start">
-  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/72617801?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="Profile"/>
+  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/72617801?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="Profile" align="left" style="margin-right: 20px;"/>
+  <div>
+    - 📫 How to reach me: 
+      - [LinkedIn](https://www.linkedin.com/in/saad-rajpoot-b3ba85225/)
+      - [GitHub](https://www.github.com/Saad-Rajpoot/)
+      - [Behance](https://www.behance.net/saadrajpoot5/)
+      - [Twitter](https://www.twitter.com/saadi47123/)
+      - [Facebook](https://www.facebook.com/saad.saad.9083477/)
+      - [Instagram](https://www.instagram.com/saadrajpoot42/)
+  </div>
 </p>
 
 ## 🚀 About Me
@@ -12,7 +22,6 @@ Welcome to my GitHub profile! I'm a passionate Flutter developer with a keen int
 - 👯 I’m looking to collaborate on innovative and challenging Flutter projects
 - 🤔 I’m looking for help with advanced Flutter techniques and best practices
 - 💬 Ask me about anything related to Flutter development
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saad-rajpoot-b3ba85225/)
 - ⚡ Fun fact: I enjoy exploring new technologies and keeping up with industry trends
 
 ## 🛠️ Skills
@@ -73,17 +82,6 @@ A project aimed at providing stylish and customizable UI components for Flutter 
 - [ToDo App](https://github.com/YOUR_GITHUB_USERNAME/todo-app): A simple to-do list application built with Flutter.
 - [Weather App](https://github.com/YOUR_GITHUB_USERNAME/weather-app): A weather forecasting app using Flutter and OpenWeather API.
 - [Chat Application](https://github.com/YOUR_GITHUB_USERNAME/chat-app): A real-time chat application built with Flutter and Firebase.
-
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/saad-rajpoot-b3ba85225/)
-- [GitHub](https://www.github.com/Saad-Rajpoot/)
-- [Behance](https://www.behance.net/saadrajpoot5/)
-- [Twitter](https://www.twitter.com/saadi47123/)
-- [Facebook](https://www.facebook.com/saad.saad.9083477/)
-- [Instagram](https://www.instagram.com/saadrajpoot42/)
-
-Feel free to connect with me on social media!
 
 ## 💼 Portfolio
 
