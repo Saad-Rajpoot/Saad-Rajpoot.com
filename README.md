@@ -22,10 +22,10 @@ Welcome to my Portfolio! I'm a passionate Flutter developer with a keen interest
 
 <table style="border: 1px solid white; border-collapse: collapse; width: 100%;">
   <tr style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <td style="border: 1px solid white; width: 60%;  width: 400px; height: 300px;">
-      <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/72617801?v=5&h=230&w=230&fit=cover&mask=circle&maxage=7d" alt="Profile" style="border-radius: 50%; width: 100%; height: 100%; object-fit: cover;">
+    <td style="border: 1px solid white; width: 40%; min-width: 150px;">
+      <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/72617801?v=5&h=230&w=230&fit=cover&mask=circle&maxage=7d" alt="Profile" style="border-radius: 50%; width: 100%; height: auto; max-width: 200px;">
     </td>
-    <td style="border: 1px solid white; width: 100%;">
+    <td style="border: 1px solid white; width: 60%;">
       <div style="width: 100%;">
         <h2 style="border: 1px solid white;">🚀 About Me</h2>
         <p style="text-align: left;">
@@ -46,10 +46,9 @@ Welcome to my Portfolio! I'm a passionate Flutter developer with a keen interest
     }
     table td {
       display: table-cell;
-      width: 50%;
     }
     table td:first-child {
-      text-align: right;
+      text-align: center;
     }
     table td:last-child {
       text-align: left;
@@ -57,6 +56,7 @@ Welcome to my Portfolio! I'm a passionate Flutter developer with a keen interest
     }
   }
 </style>
+
 
 
 
