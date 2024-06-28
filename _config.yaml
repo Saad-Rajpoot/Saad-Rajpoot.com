@@ -1,10 +1,66 @@
-title: Saad Rajpoot
-logo: /assets/profile.jpeg
-theme: jekyll-theme-minimal
+# Site settings
+title: My Portfolio
+description: A portfolio to showcase my projects and skills.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+author: Your Name
+email: you@example.com
+
+# Social media settings
 social:
-  twitter: https://twitter.com/yourusername
-  facebook: https://facebook.com/yourusername
-  instagram: https://instagram.com/yourusername
-  linkedin: https://linkedin.com/in/yourusername
-  github: https://github.com/yourusername
-  youtube: https://youtube.com/c/yourusername
+  twitter: your_twitter_handle
+  github: your_github_handle
+  linkedin: your_linkedin_handle
+
+# Theme settings
+theme: minima # or any other Jekyll theme you prefer
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Navigation settings
+nav:
+  - name: Home
+    link: /
+  - name: Projects
+    link: /projects
+  - name: Blog
+    link: /blog
+  - name: About
+    link: /about
+  - name: Contact
+    link: /contact
+
+# Collections settings
+collections:
+  projects:
+    output: true
+  blog:
+    output: true
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+
+# Build settings
+permalink: /:title/
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+
+# Include in build
+include:
+  - _pages
+
+# SEO settings
+seo:
+  title_separator: "-"
+  description: This is my professional portfolio where I showcase my work, projects, and blog posts.
+
