@@ -24,14 +24,14 @@ Welcome to my Portfolio! I'm a passionate Flutter developer with a keen interest
 </table>
 
 <table style="border: 1px solid white; border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="border: 1px solid white; vertical-align: top; text-align: center;">
+  <tr style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <td style="border: 1px solid white;">
       <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/72617801?v=5&h=230&w=230&fit=cover&mask=circle&maxage=7d" alt="Profile" style="border-radius: 50%; width: 100px; height: 100px;"/>
     </td>
     <td style="border: 1px solid white;">
       <div>
-        <h2 style="border: 1px solid white; ">🚀 About Me</h2>
-        <ul>
+        <h2 style="border: 1px solid white;">🚀 About Me</h2>
+        <ul style="list-style-type: none; padding: 0;">
           <li>🔭 I’m currently working on Flutter projects</li>
           <li>🌱 I’m constantly learning and improving my skills in Flutter and mobile app development</li>
           <li>👯 I’m looking to collaborate on innovative and challenging Flutter projects</li>
@@ -42,27 +42,27 @@ Welcome to my Portfolio! I'm a passionate Flutter developer with a keen interest
       </div>
     </td>
   </tr>
-  <style>
-    @media screen and (max-width: 600px) {
-      table, tr, td {
-        display: block;
-        width: 100%;
-      }
-      td {
-        border: none;
-        margin-bottom: 10px;
-      }
-      td img {
-        width: 80px;
-        height: 80px;
-      }
-      h2 {
-        text-align: center;
-      }
-    }
-  </style>
 </table>
 
+<style>
+  @media (min-width: 600px) {
+    table tr {
+      flex-direction: row;
+      text-align: left;
+    }
+    table td {
+      display: table-cell;
+      width: 50%;
+    }
+    table td:first-child {
+      text-align: right;
+    }
+    table td:last-child {
+      text-align: left;
+      vertical-align: middle;
+    }
+  }
+</style>
 
 
 ## 🛠️ Skills
