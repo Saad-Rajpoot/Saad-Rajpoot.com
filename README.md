@@ -2,22 +2,26 @@
 
 Welcome to my GitHub profile! I'm a passionate Flutter developer with a keen interest in creating efficient and user-friendly mobile applications.
 
-<p align="center">
-  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/72617801?v=5&h=240&w=240&fit=cover&mask=circle&maxage=7d" alt="Profile" align="center" style="margin-right: 40px;"/>
-  <div>
-       <b>🚀 About Me</b>
-        <div>
-              <ul>
-                <li>🔭 I’m currently working on Flutter projects</li>
-                <li>🌱 I’m constantly learning and improving my skills in Flutter and mobile app development</li>
-                <li>👯 I’m looking to collaborate on innovative and challenging Flutter projects</li>
-                <li>🤔 I’m looking for help with advanced Flutter techniques and best practices</li>
-                <li>💬 Ask me about anything related to Flutter development</li>
-                <li>⚡ Fun fact: I enjoy exploring new technologies and keeping up with industry trends</li>
-              </ul>
-        </div>
-  </div>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/72617801?v=5&h=240&w=240&fit=cover&mask=circle&maxage=7d" alt="Profile" style="border-radius: 50%;"/>
+    </td>
+    <td>
+      <div>
+        <b>🚀 About Me</b>
+        <ul>
+          <li>🔭 I’m currently working on Flutter projects</li>
+          <li>🌱 I’m constantly learning and improving my skills in Flutter and mobile app development</li>
+          <li>👯 I’m looking to collaborate on innovative and challenging Flutter projects</li>
+          <li>🤔 I’m looking for help with advanced Flutter techniques and best practices</li>
+          <li>💬 Ask me about anything related to Flutter development</li>
+          <li>⚡ Fun fact: I enjoy exploring new technologies and keeping up with industry trends</li>
+        </ul>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Skills
 
