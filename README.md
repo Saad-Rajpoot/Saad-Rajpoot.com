@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saad Rajpoot
 
-Welcome to my GitHub profile! I'm a passionate Flutter developer with a keen interest in creating efficient and user-friendly mobile applications.
+Welcome to my Portfolio! I'm a passionate Flutter developer with a keen interest in creating efficient and user-friendly mobile applications.
 
 <table style="border: 1px solid white; border-collapse: collapse;">
   <tr>
@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate Flutter developer with a keen int
     </td>
     <td style="border: 1px solid white; padding: 10px;">
       <div>
-        <b>🚀 About Me</b>
+        <h2>🚀 About Me</h2>
         <ul>
           <li>🔭 I’m currently working on Flutter projects</li>
           <li>🌱 I’m constantly learning and improving my skills in Flutter and mobile app development</li>
