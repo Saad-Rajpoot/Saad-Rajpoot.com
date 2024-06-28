@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate Flutter developer with a keen interest in creating efficient and user-friendly mobile applications. 
 <p align="start">
-  <img src="[https://github.com/Saad-Rajpoot/SnapStyle/assets/72617801/64042ea5-ec4e-4109-9ae4-ddd29bfbb90e](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/72617801?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d)" alt="Profile"/>
+  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/72617801?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="Profile"/>
 </p>
 
 ## 🚀 About Me
