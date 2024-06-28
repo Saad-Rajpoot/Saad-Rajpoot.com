@@ -16,6 +16,8 @@ Welcome to my GitHub profile! I'm a passionate Flutter developer with a keen int
 
 ### Programming Languages
 - Dart
+- C
+- C++
 - JavaScript
 - HTML & CSS
 
@@ -33,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate Flutter developer with a keen int
 ### Others
 - UI/UX Design
 - RESTful APIs
-- State Management (Provider, Bloc)
+- State Management (Provider, Getx)
 - Agile Methodologies
 
 ## 📈 GitHub Stats
@@ -73,11 +75,10 @@ A project aimed at providing stylish and customizable UI components for Flutter 
 
 - [LinkedIn](https://www.linkedin.com/in/saad-rajpoot-b3ba85225/)
 - [Twitter](https://twitter.com/YOUR_TWITTER_HANDLE)
-- [Personal Website](YOUR_PERSONAL_WEBSITE_LINK)
 
 ## 💼 Portfolio
 
-Check out my [portfolio](YOUR_PORTFOLIO_LINK) to see some of the projects I've worked on.
+Check out my [portfolio](https://saad-rajpoot.github.io/) to see some of the projects I've worked on.
 
 ## 📄 Certifications
 
