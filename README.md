@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate Flutter developer with a keen int
 <p align="start">
   <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/72617801?v=5&h=270&w=270&fit=cover&mask=circle&maxage=7d" alt="Profile" align="right" style="margin-right: 40px;"/>
   <div>
-       <b>🚀 About Me</b>
+       <b>🚀 About Me \n</b>
     
 <div>
       <ul>
