@@ -102,10 +102,12 @@ Check out my [portfolio](https://saad-rajpoot.github.io/) to see some of the pro
 
 ## 🌟 Testimonials
 
-"Great Flutter Developer to work with. Knowledgeable and professional.highly recommended" **SA Lodhi**(https://www.linkedin.com/in/salodhi1/)
-"I am delighted to recommend Saad as a highly skilled Flutter developer. He consistently impresses us with his proficiency and dedication to creating exceptional mobile applications.
-He possesses a deep understanding of Flutter framework and its ecosystem. He demonstrated expertise in developing clean, efficient, and maintainable code that adhered to best practices. His ability to translate complex design requirements into smooth, responsive user interfaces is particularly impressive." **Zainab Abbasi**
-"It has been an absolute pleasure to work alongside Saad in Geeks Select. When he joined the office, he seemed to be a very straight forward guy and we had an interaction after a few days. I was also in doubt if he was professional or just an average flutter developer. Little did I know, he would be declared as the "Best Employee of the Year" in his first year. He has also made our OZPOS project a running success and we are now working in different cities of Australia through his great flutter development skills.He is a genuine and well reputed person and one of the best people I had in my professional life. I wanted to write more about him but I guess I need help in typing more. 😄😄😄" **Hammad Abbasi**
+- "Great Flutter Developer to work with. Knowledgeable and professional. Highly recommended."  [**SA Lodhi**](https://www.linkedin.com/in/salodhi1/)
+
+- "I am delighted to recommend Saad as a highly skilled Flutter developer. He consistently impresses us with his proficiency and dedication to creating exceptional mobile applications.
+He possesses a deep understanding of Flutter framework and its ecosystem. He demonstrated expertise in developing clean, efficient, and maintainable code that adhered to best practices. His ability to translate complex design requirements into smooth, responsive user interfaces is particularly impressive." [**Zainab Abbasi**](https://www.linkedin.com/in/zainababbasi848/)
+
+- "It has been an absolute pleasure to work alongside Saad in Geeks Select. When he joined the office, he seemed to be a very straight forward guy and we had an interaction after a few days. I was also in doubt if he was professional or just an average flutter developer. Little did I know, he would be declared as the "Best Employee of the Year" in his first year. He has also made our OZPOS project a running success and we are now working in different cities of Australia through his great flutter development skills.He is a genuine and well reputed person and one of the best people I had in my professional life. I wanted to write more about him but I guess I need help in typing more. 😄😄😄"  [**Hammad Abbasi**](https://www.linkedin.com/in/hammad-abbasi09/)
 
 
 Feel free to reach out if you'd like to collaborate or just have a chat about Flutter development!
