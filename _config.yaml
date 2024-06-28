@@ -1,7 +1,5 @@
 # Site settings
 title: Saad Rajpoot
 description: A portfolio to showcase my projects and skills.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
 author: Saad rajpoot
 email: saadi47123@gmail.com
