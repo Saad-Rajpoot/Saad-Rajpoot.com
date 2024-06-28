@@ -98,7 +98,7 @@ Check out my [portfolio](https://saad-rajpoot.github.io/) to see some of the pro
 
 ## 📄 Certifications
 
-- **Introduction to Git and Github**: 🎓 Completed Coursera's Introduction to GitHub course | Mastered repository management, branching, and collaboration workflows | Ready to contribute effectively to software development projects.
+- **Introduction to Git and Github**: 🎓 Completed Coursera's Introduction to GitHub course - Mastered repository management, branching, and collaboration workflows - Ready to contribute effectively to software development projects.
 
 ## 🌟 Testimonials
 
