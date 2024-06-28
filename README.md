@@ -2,27 +2,6 @@
 
 Welcome to my Portfolio! I'm a passionate Flutter developer with a keen interest in creating efficient and user-friendly mobile applications.
 
-<table style="border: 1px solid white; border-collapse: collapse; ">
-  <tr>
-    <td style="border: 1px solid white;">
-      <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/72617801?v=5&h=230&w=230&fit=cover&mask=circle&maxage=7d" alt="Profile" style="border-radius: 50%;"/>
-    </td>
-    <td style="border: 1px solid white;">
-      <div>
-        <h2 style="border: 1px solid white; ">🚀 About Me</h2>
-        <ul>
-          <li>🔭 I’m currently working on Flutter projects</li>
-          <li>🌱 I’m constantly learning and improving my skills in Flutter and mobile app development</li>
-          <li>👯 I’m looking to collaborate on innovative and challenging Flutter projects</li>
-          <li>🤔 I’m looking for help with advanced Flutter techniques and best practices</li>
-          <li>💬 Ask me about anything related to Flutter development</li>
-          <li>⚡ Fun fact: I enjoy exploring new technologies and keeping up with industry trends</li>
-        </ul>
-      </div>
-    </td>
-  </tr>
-</table>
-
 <table style="border: 1px solid white; border-collapse: collapse; width: 100%;">
   <tr style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <td style="border: 1px solid white;">
@@ -59,7 +38,7 @@ Welcome to my Portfolio! I'm a passionate Flutter developer with a keen interest
     }
     table td:last-child {
       text-align: left;
-      vertical-align: middle;
+      vertical-align: left;
     }
   }
 </style>
