@@ -4,10 +4,10 @@ Welcome to my Portfolio! I'm a passionate Flutter developer with a keen interest
 
 <table style="border: 1px solid white; border-collapse: collapse;">
   <tr>
-    <td style="border: 1px solid white; padding: 10px;">
+    <td style="border: 1px solid white;">
       <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/72617801?v=5&h=230&w=230&fit=cover&mask=circle&maxage=7d" alt="Profile" style="border-radius: 50%;"/>
     </td>
-    <td style="border: 1px solid white; padding: 10px;">
+    <td style="border: 1px solid white;">
       <div>
         <h2 style="border: 1px solid white; ">🚀 About Me</h2>
         <ul>
