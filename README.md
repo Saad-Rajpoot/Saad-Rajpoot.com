@@ -73,8 +73,14 @@ A project aimed at providing stylish and customizable UI components for Flutter 
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/saad-rajpoot-b3ba85225/)
-- [Twitter](https://twitter.com/YOUR_TWITTER_HANDLE)
+- [Twitter]({{ site.social_links.twitter }})
+- [Facebook]({{ site.social_links.facebook }})
+- [Instagram]({{ site.social_links.instagram }})
+- [LinkedIn]({{ site.social_links.linkedin }})
+- [GitHub]({{ site.social_links.github }})
+- [YouTube]({{ site.social_links.youtube }})
+
+Feel free to connect with me on social media!
 
 ## 💼 Portfolio
 
