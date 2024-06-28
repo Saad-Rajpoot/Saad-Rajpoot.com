@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate Flutter developer with a keen interest in creating efficient and user-friendly mobile applications.
 
-<p align="start">
-  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/72617801?v=5&h=240&w=240&fit=cover&mask=circle&maxage=7d" alt="Profile" align="right" style="margin-left: 40px;"/>
+<p align="center">
+  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/72617801?v=5&h=240&w=240&fit=cover&mask=circle&maxage=7d" alt="Profile" align="center" style="margin-right: 40px;"/>
   <div>
        <b>🚀 About Me</b>
         <div>
@@ -78,14 +78,14 @@ A project aimed at providing stylish and customizable UI components for Flutter 
 - [Weather App](https://github.com/YOUR_GITHUB_USERNAME/weather-app): A weather forecasting app using Flutter and OpenWeather API.
 - [Chat Application](https://github.com/YOUR_GITHUB_USERNAME/chat-app): A real-time chat application built with Flutter and Firebase.
 
-### Connet me
+### Connect with me
 
-  - [LinkedIn](https://www.linkedin.com/in/saad-rajpoot-b3ba85225/)
-  - [GitHub](https://www.github.com/Saad-Rajpoot/)
-  - [Behance](https://www.behance.net/saadrajpoot5/)
-  - [Twitter](https://www.twitter.com/saadi47123/)
-  - [Facebook](https://www.facebook.com/saad.saad.9083477/)
-  - [Instagram](https://www.instagram.com/saadrajpoot42/)
+- [LinkedIn](https://www.linkedin.com/in/saad-rajpoot-b3ba85225/)
+- [GitHub](https://www.github.com/Saad-Rajpoot/)
+- [Behance](https://www.behance.net/saadrajpoot5/)
+- [Twitter](https://www.twitter.com/saadi47123/)
+- [Facebook](https://www.facebook.com/saad.saad.9083477/)
+- [Instagram](https://www.instagram.com/saadrajpoot42/)
 
 ## 💼 Portfolio
 
