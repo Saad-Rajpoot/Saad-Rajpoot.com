@@ -2,10 +2,6 @@
 
 Welcome to my Portfolio! I'm a passionate Flutter developer with a keen interest in creating efficient and user-friendly mobile applications.
 
-# 👋 Hi, I'm Saad Rajpoot
-
-Welcome to my Portfolio! I'm a passionate Flutter developer with a keen interest in creating efficient and user-friendly mobile applications.
-
 <table style="border: 1px solid white; border-collapse: collapse; width: 100%;">
   <tr style="display: flex; flex-direction: column; align-items: center;">
     <td style="border: 1px solid white; width: 100%; text-align: center;">
