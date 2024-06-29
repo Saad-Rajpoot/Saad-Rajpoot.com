@@ -36,7 +36,7 @@ Welcome to my Portfolio! I'm a passionate Flutter developer with a keen interest
   </tr>
 </table>
 
-<!-- Media query for larger screens -->
+<!-- Add a hidden div for media queries on websites -->
 <div style="display: none;">
   <style>
     @media (min-width: 768px) {
