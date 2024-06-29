@@ -10,7 +10,7 @@ Welcome to my Portfolio! I'm a passionate Flutter developer with a keen interest
     <td style="border: 1px solid white; width: 100%; text-align: center;">
       <div>
         <h2 style="border: 1px solid white; text-align: center;">🚀 About Me</h2>
-          <p style="text-align: center;">As a Senior Flutter Developer, I have a strong foundation in mobile app development, with a particular focus on the Flutter framework. My expertise encompasses the entire development lifecycle, from conceptualizing and designing to coding and deploying applications.
+          <p style="text-align: left;">As a Senior Flutter Developer, I have a strong foundation in mobile app development, with a particular focus on the Flutter framework. My expertise encompasses the entire development lifecycle, from conceptualizing and designing to coding and deploying applications.
   <br>
 <br>
   I thrive on challenges and am always eager to take on new projects that push the boundaries of my skills. My work is driven by a deep understanding of client needs, a commitment to quality, and a keen eye for detail. I excel in collaborative environments and believe that the best results come from teamwork and open communication.</p>
@@ -18,55 +18,6 @@ Welcome to my Portfolio! I'm a passionate Flutter developer with a keen interest
     </td>
   </tr>
 </table>
-
-<table style="border: 1px solid white; border-collapse: collapse; width: 100%;">
-  <tr style="display: flex; flex-direction: column; align-items: center;">
-    <td style="border: 1px solid white; width: 100%; text-align: center;">
-      <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/72617801?v=5&h=250&w=250&fit=cover&mask=circle&maxage=7d" alt="Profile" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;"/>
-    </td>
-    <td style="border: 1px solid white; width: 100%; text-align: center;">
-      <div>
-        <h2 style="border: 1px solid white; text-align: center;">🚀 About Me</h2>
-          <p style="text-align: center;">As a Senior Flutter Developer, I have a strong foundation in mobile app development, with a particular focus on the Flutter framework. My expertise encompasses the entire development lifecycle, from conceptualizing and designing to coding and deploying applications.
-  <br>
-<br>
-  I thrive on challenges and am always eager to take on new projects that push the boundaries of my skills. My work is driven by a deep understanding of client needs, a commitment to quality, and a keen eye for detail. I excel in collaborative environments and believe that the best results come from teamwork and open communication.</p>
-       </div>
-    </td>
-  </tr>
-</table>
-
-<!-- Add a hidden div for media queries on websites -->
-<div style="display: none;">
-  <style>
-    @media (min-width: 768px) {
-      table {
-        display: table;
-      }
-      table tr {
-        display: table-row;
-      }
-      table td {
-        display: table-cell;
-        text-align: left;
-        width: auto;
-      }
-      table td:first-child {
-        text-align: center;
-        vertical-align: middle;
-        width: 250px; /* Image width */
-      }
-      table img {
-        width: 250px;
-        height: 250px;
-      }
-      table div h2, table div p {
-        text-align: left;
-      }
-    }
-  </style>
-</div>
-
 
 ## 🛠️ Skills
 
