@@ -1,6 +1,6 @@
 <h1 style="border-bottom: none;">👋 Hi, I'm Saad Rajpoot</h1>
 
-<p>Welcome to my Portfolio! I'm a passionate Flutter developer with a keen interest in creating efficient and user-friendly mobile applications.</p>
+<p  style="border-bottom: none;">Welcome to my Portfolio! I'm a passionate Flutter developer with a keen interest in creating efficient and user-friendly mobile applications.</p>
 
 <table style="border: 1px solid white; border-collapse: collapse; width: 100%;">
   <tr style="display: flex; flex-direction: column; align-items: center;">
