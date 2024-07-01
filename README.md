@@ -1,4 +1,4 @@
-<h1 style="border-bottom: none;>👋 Hi, I'm Saad Rajpoot</h1>
+<h1 style="border-bottom: none;">👋 Hi, I'm Saad Rajpoot</h1>
 
 <p>Welcome to my Portfolio! I'm a passionate Flutter developer with a keen interest in creating efficient and user-friendly mobile applications.</p>
 
