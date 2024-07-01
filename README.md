@@ -2,7 +2,7 @@
 
 <p  style="border-bottom: none;">Welcome to my Portfolio! I'm a passionate Flutter developer with a keen interest in creating efficient and user-friendly mobile applications.</p>
 
-<table style="border: 1px solid white; border-collapse: collapse; width: 100%;">
+<table style="border: 1px solid white; border-collapse: collapse; border-bottom: none; width: 100%;">
   <tr style="display: flex; flex-direction: column; align-items: center;">
     <td style="border: 1px solid white; width: 100%; text-align: center;">
       <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/72617801?v=5&h=250&w=250&fit=cover&mask=circle&maxage=7d" alt="Profile" style="border-radius: 50%; width: 200px; height: 200px;"/>
